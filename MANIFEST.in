@@ -1,0 +1,4 @@
+include LICENSE README.md
+include src/stampede/_native_hash.c
+recursive-include src/stampede/_lua *.lua
+include src/stampede/py.typed
